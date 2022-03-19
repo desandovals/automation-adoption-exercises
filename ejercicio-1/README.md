@@ -19,6 +19,8 @@ git@github.com:desandovals/automation-adoption-exercises.git
 
 **Nota:** Escribir los comandos con formato de comando en el readme. 
 
-Sugerencia: En esta ocasión si puede ser una sola persona la que haga la actividad documental, por lo que pueden trabajar en paralelo. 
+## Sugerencia: 
 
-Tiempo para terminar: 20 minutos.  
+En esta ocasión si puede ser una sola persona la que haga la actividad documental, por lo que pueden trabajar en paralelo. 
+
+**Tiempo para terminar:** 20 minutos.  
