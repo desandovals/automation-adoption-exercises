@@ -17,7 +17,7 @@ git@github.com:desandovals/automation-adoption-exercises.git
         
 6. Dentro, entrar a la carpeta ejercicio-1, buscar la carpeta que corresponda a su equipo y editar el README que contenga los comandos que usaron durante esta actividad, así como una breve descripción de cada uno. 
 
-*Nota:* Escribir los comandos con formato de comando en el readme. 
+**Nota:** Escribir los comandos con formato de comando en el readme. 
 
 Sugerencia: En esta ocasión si puede ser una sola persona la que haga la actividad documental, por lo que pueden trabajar en paralelo. 
 
