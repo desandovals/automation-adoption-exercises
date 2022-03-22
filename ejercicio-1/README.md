@@ -7,10 +7,12 @@ Nos dividiremos nuevamente en equipos. Cada equipo deberá hacer lo siguiente:
  <li> Desplegar Bucket de GCS usando comandos. (1 bucket por equipo). </li>
   <ol>
     <li> Etiquetas: </li>
+    
 ```
         equipo:nombre-equipo
         ejercicio:ejercicio-1
 ```
+
     <li> Uso para una consulta por mes. </li>
     <li> Bucket ambiente de qas. </li>
   </ol> 
