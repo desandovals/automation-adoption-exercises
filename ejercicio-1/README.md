@@ -3,9 +3,9 @@
 Nos dividiremos nuevamente en equipos. Cada equipo deberá hacer lo siguiente: 
 
 1. Desplegar Bucket de GCS usando comandos. (1 bucket por equipo).
-    a) Etiquetas: equipo:nombre-equipo ; ejercicio:ejercicio-1
-    b) Uso para una consulta por mes. 
-    c) Bucket ambiente de qas.
+ - Etiquetas: equipo:nombre-equipo ; ejercicio:ejercicio-1
+ - Uso para una consulta por mes. 
+ - Bucket ambiente de qas.
 2. Crear archivo en Google Cloud Shell (1 archivo por persona). 
 3. Copiar archivo al bucket de cloud storage. 
 4. Cada integrante elegir archivo de otro integrante y guardarlo en sus cloud shell. Al final todos deberán tener el archivo que ustedes mismos generaron y el de otro compañero (sin repetirse). 
