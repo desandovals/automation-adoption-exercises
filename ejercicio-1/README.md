@@ -9,12 +9,13 @@ Nos dividiremos nuevamente en equipos. Cada equipo deberá hacer lo siguiente:
     <li> Etiquetas: </li>
     
 ```
-        equipo:nombre-equipo
-        ejercicio:ejercicio-1
+equipo:nombre-equipo
+ejercicio:ejercicio-1
 ```
 
     <li> Uso para una consulta por mes. </li>
     <li> Bucket ambiente de qas. </li>
+    
   </ol> 
   <li> Crear archivo en Google Cloud Shell (1 archivo por persona). </li>
   <li> Copiar archivo al bucket de cloud storage.  </li>
