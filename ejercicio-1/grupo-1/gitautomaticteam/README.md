@@ -14,4 +14,6 @@ gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep -v txt
 | :-------: | :-------------: |
 | si        |hfulloam         |
 | si        |eaalmonasis      | 
-| si        |                | 
+| si        |Evelin           | 
+| si        |Karla            | 
+| si        |JuanCodigoLiv    |
