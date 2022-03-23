@@ -1,3 +1,6 @@
+## Se crea
+gsutil mb -p crp-dev-iac-testing -c NEARLINE -l us-east4 -b on gs://crp-dev-iac-testing-bkt04
+
 gsutil cp eczepedahcommand.txt gs://crp-dev-iac-testing-bkt02/
 
 gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep eczepedah.txt
