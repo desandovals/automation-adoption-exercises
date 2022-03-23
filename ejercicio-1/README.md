@@ -48,8 +48,8 @@ Para esta actividad ustedes elegirán el tiempo que quieran destinarle,
 <div align="center">
 
 | Tiempo    | Participaciones |
-| --------- | --------------- |
-| 20 mins   | : 12 :          |
+| :-------: | :-------------: |
+| 20 mins   |  12             |
 | 30 mins   | 6               | 
 | > 40 mins | 3               | 
 
