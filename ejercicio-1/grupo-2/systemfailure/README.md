@@ -1,4 +1,14 @@
 
+    | Nombre | Equipo |
+    ------------------
+    | Fernando Clara Suazo |
+    | Mauricio Gonzalez Neri |
+    | Rosa Isela Bernal |
+    | Jose Luis Santelis |
+
+# <p align="center"> "Ejercicio 1" 
+
+
 ## <p align="center"> "Creación de Bucket"
 ### <p align="center"> *Comando*
 
