@@ -10,6 +10,8 @@ gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep eczepedah.txt
 
 gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep -v txt
 
+## Integrantes
+
 | Participa | Integrantes |
 | :-------: | :-------------: |
 | si        |hfulloam         |
