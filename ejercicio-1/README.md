@@ -39,7 +39,7 @@ git@github.com:desandovals/automation-adoption-exercises.git
 
 ## Sugerencia: 
 
-En esta ocasión si puede ser una sola persona la que haga la actividad documental, por lo que pueden trabajar en paralelo. 
+En esta ocasión si puede ser una sola persona la que haga la actividad documental, por lo que pueden trabajar en paralelo, sin embargo deberán indicar  **añadiendo una tabla, los nombres de quienes hayan participado en la actividad**. 
 
 ## Tiempo para terminar
 
