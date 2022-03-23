@@ -27,5 +27,14 @@ gsutil cp gs://crp-qas-iac-testing-bkt05/Ruben.txt .
 ```
 gsutil rm -r gs://crp-qas-iac-testing-bkt05
 ```
+<h1 align="center"><i>Integrantes</i></h1>
+<table align ="center">
+<tr><td><b>Rubén Alejandro Calderón Corona</b></td></tr>
+<tr><td><b>Enrique Guzman</b></td></tr>
+<tr><td><b>Diana Ortgea</b></tr>
+<tr><td><b>Luis Bautista</b></td></tr>
+<tr><td><b>Maria Elena</b></td></tr>
+<tr><td><b>Ariana García</b></td></tr>
+</table>
 
 
