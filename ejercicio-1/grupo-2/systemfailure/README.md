@@ -1,10 +1,10 @@
 
     | Nombre | Equipo |
     ------------------
-    | Fernando Clara Suazo |
-    | Mauricio Gonzalez Neri |
-    | Rosa Isela Bernal |
-    | Jose Luis Santelis |
+    | Fernando Clara Suazo | systemfailure |
+    | Mauricio Gonzalez Neri | systemfailure |
+    | Rosa Isela Bernal | systemfailure |
+    | Jose Luis Santelis | systemfailure |
 
 # <p align="center"> "Ejercicio 1" 
 
