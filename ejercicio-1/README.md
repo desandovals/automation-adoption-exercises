@@ -14,11 +14,11 @@ ejercicio:ejercicio-1
 
 - Uso para una consulta por mes.
 - Bucket ambiente de qas.
-- Crear archivo en Google Cloud Shell (1 archivo por persona).
 
 ## Copia de archivos
 
-- Copiar archivo al bucket de cloud storage.  </li>
+- Crear archivo en Google Cloud Shell (1 archivo por persona).
+- Copiar archivo al bucket de cloud storage. 
 - Cada integrante elegir archivo de otro integrante y guardarlo en sus cloud shell. Al final todos deberán tener el archivo que ustedes mismos generaron y el de otro compañero (sin repetirse). 
 
 ## Eliminación del bucket
