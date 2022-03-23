@@ -15,12 +15,9 @@ touch JuanCodigoLiv.txt
 <img src="imagencomando4.png" width="550">
 <img src="imagencomando5.png" width="550">
 
+## Copia de archivo de Home a Bucket con el comando:
 
-gsutil cp eczepedahcommand.txt gs://crp-dev-iac-testing-bkt02/
-
-gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep eczepedah.txt
-
-gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep -v txt
+gsutil cp kicuevas.txt gs://crp-dev-iac-testing-bkt04
 
 
 
