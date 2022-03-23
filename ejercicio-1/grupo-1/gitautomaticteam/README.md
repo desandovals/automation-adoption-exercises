@@ -1,4 +1,4 @@
-## Se crea
+## Se crea bucket
 gsutil mb -p crp-dev-iac-testing -c NEARLINE -l us-east4 -b on gs://crp-dev-iac-testing-bkt04
 
 gsutil cp eczepedahcommand.txt gs://crp-dev-iac-testing-bkt02/
