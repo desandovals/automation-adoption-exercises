@@ -13,8 +13,12 @@ gsutil label ch -l ejercicio:ejercicio-1 gs://crp-qas-iac-testing-bkt05
 ```
 touch nombre.txt
 ```
+### COPIAR ARCHIVO DEL COMPAÑERO AL BUCKET
+```
+gsutil cp luisbautista.txt gs://crp-qas-iac-testing-bkt05/
+```
 
-### COPIAR ARCHIVO DEL COMPAÑERO  AL BUCKET
+### COPIAR ARCHIVO DEL COMPAÑERO DEL BUCKET
 ```
 gsutil cp gs://crp-qas-iac-testing-bkt05/Ruben.txt .
 ```
