@@ -38,5 +38,5 @@ gsutil label ch -l gitautomaticteam:ejercicio-1 gs://crp-dev-iac-testing-bkt04
 
 gsutil rm -r gs://crp-dev-iac-testing-bkt04
 
-<img src="imagencp1.png" width="550">
-<img src="imagencp2.png" width="550">
+<img src="imagenrm1.png" width="550">
+<img src="imagenrm2.png" width="550">
