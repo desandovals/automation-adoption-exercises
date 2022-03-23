@@ -49,9 +49,9 @@ Para esta actividad ustedes elegirán el tiempo que quieran destinarle,
 
 | Tiempo    | Participaciones |
 | --------- | --------------- |
-| 20 mins   | 10              |
-| 30 mins   | 5               | 
-| > 40 mins | 2               | 
+| 20 mins   | : 12 :          |
+| 30 mins   | 6               | 
+| > 40 mins | 3               | 
 
  </div align="center">
  
