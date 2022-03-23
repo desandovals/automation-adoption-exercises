@@ -19,4 +19,9 @@ touch nombre.txt
 gsutil cp gs://crp-qas-iac-testing-bkt05/Ruben.txt .
 ```
 
+### ELIMINAR BUCKET
+```
+gsutil rm -r gs://crp-qas-iac-testing-bkt05
+```
+
 
