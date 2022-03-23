@@ -9,11 +9,11 @@ gsutil mb -p crp-dev-iac-testing -c NEARLINE -l us-east4 -b on gs://crp-dev-iac-
 
 touch JuanCodigoLiv.txt
 
-<img src="imagencomando1.png" width="450">
-<img src="imagencomando2.png" width="450">
-<img src="imagencomando3.png" width="450">
-<img src="imagencomando4.png" width="450">
-<img src="imagencomando5.png" width="450">
+<img src="imagencomando1.png" width="550">
+<img src="imagencomando2.png" width="550">
+<img src="imagencomando3.png" width="550">
+<img src="imagencomando4.png" width="550">
+<img src="imagencomando5.png" width="550">
 
 
 gsutil cp eczepedahcommand.txt gs://crp-dev-iac-testing-bkt02/
