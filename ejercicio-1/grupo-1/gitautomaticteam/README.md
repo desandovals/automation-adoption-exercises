@@ -34,12 +34,4 @@ gsutil cp gs://crp-dev-iac-testing-bkt04/JuanCodigoLiv.txt .
 
 gsutil label ch -l gitautomaticteam:ejercicio-1 gs://crp-dev-iac-testing-bkt04
 
-## Integrantes
-
-| Participa | Integrantes |
-| :-------: | :-------------: |
-| si        |hfulloam         |
-| si        |eaalmonasis      | 
-| si        |Evelin           | 
-| si        |Karla            | 
-| si        |JuanCodigoLiv    |
+## Eliminar Bucket
