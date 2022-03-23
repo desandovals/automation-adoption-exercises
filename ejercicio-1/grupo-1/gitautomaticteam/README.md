@@ -5,12 +5,19 @@ gsutil mb -p crp-dev-iac-testing -c NEARLINE -l us-east4 -b on gs://crp-dev-iac-
 
 <img src="image2.png" width="450">
 
-## Copia
+## Crear archivo en Home con el comando:
+
+touch JuanCodigoLiv.txt
+
+
+
 gsutil cp eczepedahcommand.txt gs://crp-dev-iac-testing-bkt02/
 
 gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep eczepedah.txt
 
 gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep -v txt
+
+
 
 ## Etiqueta
 
