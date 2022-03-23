@@ -1,6 +1,6 @@
 # Ejercicio - GCS
 
-## bucket
+## Bucket
 gsutil mb -p crp-dev-iac-testing -c NEARLINE -l us-east4 -b on gs://crp-dev-iac-testing-bkt04
 
 <img src="image2.png" width="450">
