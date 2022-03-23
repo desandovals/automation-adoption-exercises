@@ -1,6 +1,6 @@
 # Ejercicio - GCS
 
-## Crar Bucket
+## Crar Bucket con el comando:
 
 gsutil mb -p crp-dev-iac-testing -c NEARLINE -l us-east4 -b on gs://crp-dev-iac-testing-bkt04
 
