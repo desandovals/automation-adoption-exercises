@@ -12,6 +12,10 @@ gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep eczepedah.txt
 
 gsutil ls gs://crp-dev-iac-testing-bkt02/ | grep -v txt
 
+## Etiqueta
+
+gsutil label ch -l gitautomaticteam:ejercicio-1 gs://crp-dev-iac-testing-bkt04
+
 ## Integrantes
 
 | Participa | Integrantes |
