@@ -25,7 +25,9 @@ gsutil cp kicuevas.txt gs://crp-dev-iac-testing-bkt04
 <img src="imagencp4.png" width="550">
 <img src="imagencp5.png" width="550">
 
+## Copia de archivo de Bucket a home con el comando:
 
+gsutil cp gs://crp-dev-iac-testing-bkt04/JuanCodigoLiv.txt .
 
 ## Etiqueta
 
