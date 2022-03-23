@@ -21,6 +21,10 @@ ejercicio:ejercicio-1
 - Copiar archivo al bucket de cloud storage.  </li>
 - Cada integrante elegir archivo de otro integrante y guardarlo en sus cloud shell. Al final todos deberán tener el archivo que ustedes mismos generaron y el de otro compañero (sin repetirse). 
 
+## Eliminación del bucket
+
+- Al finalizar la actividad, eliminar el bucket que generaron. 
+
 ## Documentación 
 
 - Clonar el siguiente repositorio: 
