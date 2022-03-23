@@ -43,7 +43,7 @@ En esta ocasión si puede ser una sola persona la que haga la actividad document
 
 ## Tiempo para terminar
 
-Para esta actividad ustedes elegirán el tiempo que quieran destinarle, 
+Para esta actividad ustedes elegirán el tiempo que crean necesario, pero deberá ser decisión de grupo y una vez iniciado el ejercicio no es posible cambiarla. 
 
 <div align="center">
 
