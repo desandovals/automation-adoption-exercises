@@ -4,7 +4,7 @@
 
 gsutil mb -p crp-dev-iac-testing -c NEARLINE -l us-east4 -b on gs://crp-dev-iac-testing-bkt04
 
-<img src="image2.png" width="450">
+<img src="image2.png" width="750">
 
 ## Crear archivo en Home con el comando:
 
