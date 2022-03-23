@@ -19,11 +19,11 @@ touch JuanCodigoLiv.txt
 
 gsutil cp kicuevas.txt gs://crp-dev-iac-testing-bkt04
 
-<img src="imagencp1" width="550">
-<img src="imagencp2" width="550">
-<img src="imagencp3" width="550">
-<img src="imagencp4" width="550">
-<img src="imagencp5" width="550">
+<img src="imagencp1.png" width="550">
+<img src="imagencp2.png" width="550">
+<img src="imagencp3.png" width="550">
+<img src="imagencp4.png" width="550">
+<img src="imagencp5.png" width="550">
 
 
 
