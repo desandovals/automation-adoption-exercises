@@ -1,6 +1,6 @@
 
     | Nombre | Equipo |
-    -------- | ---------
+    | -------- | --------- |
     | Fernando Clara Suazo | systemfailure |
     | Mauricio Gonzalez Neri | systemfailure |
     | Rosa Isela Bernal | systemfailure |
