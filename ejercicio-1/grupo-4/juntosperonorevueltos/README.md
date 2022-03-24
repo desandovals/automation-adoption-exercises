@@ -45,3 +45,10 @@ gsutil cp gs://crp-dev-iac-testing-bkt13/archivo-dfmf.dummy .
 ```
 gsutil rm -r gs://crp-dev-iac-testing-bkt13
 ```
+
+Numero | Integrante
+--|--
+1 | Lidia Marin Diaz
+2 | Amairaní Hernández Ramírez
+3 | Edson Luna Navarrete
+4 | David Fabian Monjaraz Flores
