@@ -1,4 +1,4 @@
-# Ejercicio 2 - Programación 
+# Ejercicio 2 - Shell Scripting
 
 Nos dividiremos en equipos y haremos la siguiente actividad. 
 
