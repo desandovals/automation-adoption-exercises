@@ -19,7 +19,7 @@ Crear un programa de nombre ciclos.sh, que realice lo siguiente:
 git@github.com:desandovals/automation-adoption-exercises.git
 ``` 
 
-2. En la carpeta que corresponda a su equipo, crear una nueva carpeta de nombre `script` y crear un archivo en ella el archivo `ciclos.sh`. 
+2. En la carpeta que corresponda a su equipo, crear una nueva carpeta de nombre `script` y crear en ella el archivo `ciclos.sh`. 
 3. Crear un `README.md` dentro de la carpeta de su equipo, que indique en qué carpeta pueden encontrar su script, la descripción de lo que hace y las instrucciones de cómo ejecutarlo. 
 
 ## Sugerencia: 
