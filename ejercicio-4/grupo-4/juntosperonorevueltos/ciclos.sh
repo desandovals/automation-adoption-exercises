@@ -10,7 +10,7 @@ info_equipo (){
 }
 ALERTA=0
 for I in $(gsutil ls); do
-    if [[ $(echo $I | grep "-qas-") ]]; then
+    if [[ $(echo $I | grep "qas") ]]; then
         echo $I
         intruso
         ALERTA=1
