@@ -1,7 +1,3 @@
-<h1>Ejercicio Ciclos</h1>
-En la carpeta script es posible encontrar el archivos ciclos que tiene el siguiente contenido.
-
-```
 #!/bin/bash
 
 DIA=`date +"%d/%m/%Y"`
@@ -24,6 +20,3 @@ validar_bucket() {
 }
 
 validar_bucket;
-```
-
-Que permite la verificación de la existencia de un bucket de qas.

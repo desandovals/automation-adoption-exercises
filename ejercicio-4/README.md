@@ -7,7 +7,7 @@ Nos dividiremos nuevamente en equipos.
 Crear un programa de nombre ciclos.sh, que realice lo siguiente: 
 
 1. Crear una función que valide si existe un bucket de un ambiente QAS dentro del proyecto crp-dev-iac-testing. 
-2. En caso de que exista, llamar a una función que utilize ciclo for que a su vez imprima 10 veces en pantalla ¡Hay un intruso!. 
+2. En caso de que exista, llamar a una función que utilize ciclo for que a su vez imprima 10 veces en pantalla ¡Hay un intruso! 
 3. En caso contrario, imprimir en pantalla “Todo en orden”. 
 4. Al finalizar el flujo anterior, una función deberá ejecutar que se imprima en pantalla el nombre del equipo y la fecha y hora de ejecución.
 
@@ -19,7 +19,7 @@ Crear un programa de nombre ciclos.sh, que realice lo siguiente:
 git@github.com:desandovals/automation-adoption-exercises.git
 ``` 
 
-2. En la carpeta que corresponda a su equipo, crear una nueva carpeta de nombre `script` y crear un archivo en ella el archivo `ciclos.sh`. 
+2. En la carpeta que corresponda a su equipo, crear una nueva carpeta de nombre `script` y crear en ella el archivo `ciclos.sh`. 
 3. Crear un `README.md` dentro de la carpeta de su equipo, que indique en qué carpeta pueden encontrar su script, la descripción de lo que hace y las instrucciones de cómo ejecutarlo. 
 
 ## Sugerencia: 

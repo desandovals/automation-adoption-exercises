@@ -1,5 +1,8 @@
 ## Creación del bucket
-```gsutil mb -p crp-dev-iac-testing -c NEARLINE -l us-east4 -b on gs://crp-dev-iac-testing-bkt07```
+```
+
+gsutil mb -p crp-dev-iac-testing -c NEARLINE -l us-east4 -b on gs://crp-dev-iac-testing-bkt07
+```
 
 ## Creación del archivo
 ```touch jonathan_islas.txt```
